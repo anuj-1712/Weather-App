@@ -1,0 +1,15 @@
+body{
+  /* background-image: url("https://images.pexels.com/photos/4215110/pexels-photo-4215110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+  background:linear-gradient(#9DB2BF,#27374D);
+  width: 100%;
+}
+
+.app{
+  height: 100vh;
+}
+
+*,::after,::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
